@@ -1,8 +1,10 @@
 # Main
 
+<!--
 ```haskell
 module Main where
 ```
+-->
 
 Testing whether I can write Literate Haskell using Markdown.
 
